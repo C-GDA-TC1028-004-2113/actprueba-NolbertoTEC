@@ -10,6 +10,5 @@ def main():
     print("Resta: " + str(rest))
     print("Multiplicación: " + str(multipli))
 
-hola wuenas
 if __name__ == '__main__':
     main()
